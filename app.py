@@ -15,7 +15,7 @@ UID = "3959794891"
 PASSWORD = "CBECEA7B0F13FD5A4A9075F5831089C286FD5CC791BE9A00EF734CEBC20AC756"
 
 # JWT generate URL
-JWT_URL = "https://aditya-jwt-v10op.onrender.com/token"
+JWT_URL = "https://team-ujjaiwal-jwt.vercel.app/token"
 
 # SEARCH URL for IND
 SEARCH_URL = "https://client.ind.freefiremobile.com/FuzzySearchAccountByName"
